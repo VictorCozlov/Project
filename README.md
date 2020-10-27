@@ -1,3 +1,3 @@
 # Project
-Python Data Analysis
-some changes were added for mee
+Python Examples
+file contains some Python examples in purpose of studying it
